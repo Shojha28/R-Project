@@ -89,3 +89,8 @@ ________________________________________
 This project was an exciting opportunity to apply machine learning in the healthcare domain. By analyzing medical features and developing predictive models, I was able to provide valuable insights into heart failure risks. This work could be expanded further by integrating real-world patient data to improve medical decision-making.
 By using data-driven approaches, hospitals and healthcare professionals can better manage preventative care, ultimately saving lives through early detection.
 
+
+
+
+
+
